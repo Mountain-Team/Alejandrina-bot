@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <img src="https://faqdocs.gitbook.io/~gitbook/image?url=https%3A%2F%2F1555934642-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252Fp1G4AgdbKcanbTSLggTE%252Fsites%252Fsite_6SSUF%252Ficon%252FROmnWdTwyU1kejVaBBJh%252F_6f6e5338-f168-4956-9541-4da502d1e3ac.png%3Falt%3Dmedia%26token%3D60828d71-fc28-4bdb-8a95-74eb87f7ccdd&width=32&dpr=4&quality=100&sign=e192b4ad&sv=1" width="150" alt="Logo de Alejandrina">
 
