@@ -8,6 +8,8 @@
   [![Creator](https://img.shields.io/badge/hecho_por_pan_%F0%9F%8D%9E-000000?style=for-the-badge&logo=github&logoColor=%23FFFFFF)](https://github.com/PancitoPues)
   [![Discord](https://img.shields.io/discord/753782808551620732?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&label=Nuestra%20comunidad&labelColor=%23000000&color=%23FFFFFF)
 ](https://discord.gg/everything-753782808551620732)
+  [![Static Badge](https://img.shields.io/badge/Invitame-000000?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/oauth2/authorize?client_id=947558572630343731)
+
 </div>
 
 ¡Bienvenid@ al fascinante mundo de Alejandrina! Prepárate para sumergirte en una experiencia Discord como nunca antes la habías imaginado. Soy mucho más que un simple bot, soy tu compañera digital, aquí para hacer tu viaje en este servidor memorable y lleno de emoción. 😄
